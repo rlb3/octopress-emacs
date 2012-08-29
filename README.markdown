@@ -2,6 +2,11 @@
 
 本插件修改自![gfreezy/octopress-emacs](https://github.com/gfreezy/octopress-emacs "gfreezy/octopress-emacs").
 
+### Contact Me
+* Email: venmos[at]gmail.com
+* Jabber: venmos[at]gmail.com
+* Blog: http://venmos.com
+
 ### 功能
 
 使用本插件你可以直接在Emacs中操作Octopress,包括:
