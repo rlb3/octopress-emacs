@@ -4,7 +4,7 @@
 
 (defun octopress-rake (command)
   "run rake commands"
-  (let ((command-str (format "bash -l -c 'source $HOME/.rvm/scripts/rvm && rvm use ruby-1.9.2-p320  && cd %s && rake %s'" octopress-workdir command))) ;; RVM变量设置
+  (let ((command-str (format "bash -l -c 'source $HOME/.rvm/scripts/rvm && rvm use ruby-1.9.2-p320 && cd %s && rake %s'" octopress-workdir command))) ;; RVM变量设置
     (shell-command-to-string command-str)))
 
 
