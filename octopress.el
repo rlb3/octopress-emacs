@@ -1,5 +1,5 @@
 ;; Octopress路径
-(setq octopress-workdir (expand-file-name "/Users/venmos/Documents/Github/octopress"))
+(setq octopress-workdir (expand-file-name "/Users/venmos/Documents/Github/octopress/"))
 
 
 (defun octopress-rake (command)
