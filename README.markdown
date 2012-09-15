@@ -1,6 +1,6 @@
 # Octopress-Emacs
 
-本插件修改自![gfreezy/octopress-emacs](https://github.com/gfreezy/octopress-emacs "gfreezy/octopress-emacs").
+本插件修改自[gfreezy/octopress-emacs](https://github.com/gfreezy/octopress-emacs "gfreezy/octopress-emacs").
 
 ### Contact Me
 * Email: venmos[at]gmail.com
