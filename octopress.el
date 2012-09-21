@@ -45,6 +45,10 @@
   (octopress-rake "deploy")
   (message "Deploy site OK"))
 
+(defun octopress-rsync ()
+  "deploy website via rsync"
+  (octopress-rake "rsync")
+  (message "Rsync site OK"))
 
 (defun octopress-gen-deploy ()
   "generate website and deploy"
