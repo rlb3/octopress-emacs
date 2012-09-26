@@ -35,6 +35,4 @@
 * M-x octopress-rsync        将生成文件传送到服务器;
 
 ### 视频演示:
-<embed src="http://player.opengg.me/player.php/sid/XNDQ1NjQ1MzQ4/v.swf" allowFullScreen="true"
-quality="high" width="480" height="400" align="middle" allowScriptAccess="always"
-type="application/x-shockwave-flash"></embed>
+[Youku.com](http://player.opengg.me/player.php/sid/XNDQ1NjQ1MzQ4/v.swf 'Youku.com' 'Youku.com')
