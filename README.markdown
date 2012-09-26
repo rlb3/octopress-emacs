@@ -16,6 +16,7 @@
 * rake generate -> octopress-generate
 * rake deploy -> octopress-deploy
 * rake gen_deploy -> octopress-gen-deploy
+* rake rsync -> octopress-rsync
 
 ### 注意:
 
@@ -31,3 +32,4 @@
 * M-x octopress-generate     转换HTML;
 * M-x octopress-deploy       发布到服务器;
 * M-x octopress_gen_deploy   转换并发布到服务器;
+* M-x octopress-rsync        将生成文件传送到服务器;
